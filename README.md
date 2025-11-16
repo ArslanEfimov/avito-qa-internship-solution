@@ -8,3 +8,5 @@ ___
 ### Тест-кейсы для 2 задания находятся здесь - [task2 test-cases](task2_2/TESTCASES.md)
 
 ### Инструкция по запуску тестов из 2 задания находится здесь - [task2 instruction](task2_2/README.md)
+
+### Баг-репорт по 2 заданию находится здесь - [task2 bug-report](task2_2/BUGS.md)
